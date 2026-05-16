@@ -8,7 +8,13 @@ console.log(a, b);
 // a = a - b; // 30-10=20
 
 // with destricutring method
-[a, b] = [b, a]
+// [a, b] = [b, a]
+
+// with xor method
+a = a ^ b;
+b = a ^ b;
+a = a ^ b
+
 
 console.log(a, b);
 
