@@ -4,4 +4,6 @@
 // Data structure=> These are differnt structure that we can prepreare to sote data in differnet ways depending on our use case
 //e.g: hirerecry- folder structure
 
-const=Array;
+//Array are also custom objects in JS
+//Index of the emlement is key and element it self is the value
+//
